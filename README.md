@@ -1,5 +1,9 @@
 # Kancil Air: Merapi Run
 
+## Learning note
+
+This project was built as an entry for the make.fun best flight game bounty. It did not win. In round 3 it ranked 17,385 of 17,578 with a judge win rate of 0.23, far from the 50 paid places. It stays here as a learning resource, so you can see how it was built and what did not work. It is not a competition product.
+
 [![make.fun bounty](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
 [![make.fun rank](https://make.fun/badge/best-flight-game-20261126-0057/afahru/flight-game/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
 [![make.fun reward](https://make.fun/badge/best-flight-game-20261126-0057/afahru/flight-game/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
